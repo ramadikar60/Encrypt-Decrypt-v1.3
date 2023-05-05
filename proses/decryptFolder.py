@@ -33,7 +33,7 @@ class DecryptFolder:
         self.parent.geometry("%ix%i+%i+%i" %(lebar, tinggi, setTengahX, setTengahY))
         # self.parent.overrideredirect(1)
         self.parent.resizable(False, False)
-        self.parent.iconbitmap(r"C:\Users\admin\Documents\Python\EncDec\Encrypt-Decrypt-v1.3\enc&dec.ico")
+        self.parent.iconbitmap(r"C:\Users\user\Encrypt-Decrypt-v1.3\enc&dec.ico")
         self.parent.configure(bg = "#75a3a3")
         self.aturKomponen()
 
